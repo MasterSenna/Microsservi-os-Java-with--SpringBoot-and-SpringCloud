@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
 ## Atenção: curso específico para versões Java 11 e Spring Boot 2.3.4
 #### Nelio Alves 
@@ -237,6 +237,6 @@ fetch("http://localhost:8765/hr-worker/workers", {
   "credentials": "omit"
 });
 ```
-=======
+
 # Microsservi-os-Java-with--SpringBoot-and-SpringCloud
->>>>>>> f2f7efd8d00baf4b557613194dc7e38ecded5eca
+
